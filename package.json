@@ -1,0 +1,27 @@
+{
+  "name": "adopt-a-dog",
+  "version": "1.0.0",
+  "description": "Dog adoption web application using React, Redux, Node.js, Express, SQLite3, Knex and more!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "nodemon": "^1.18.10",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabeale/adopt-a-dog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabeale/adopt-a-dog/issues"
+  },
+  "homepage": "https://github.com/mabeale/adopt-a-dog#readme"
+}
